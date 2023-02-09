@@ -18,6 +18,8 @@ public class GitTest {
         
         System.out.println("Whaddup cucks");
         
+        System.out.println("I hope that this works");
+        
     }
     
 }
